@@ -9,7 +9,7 @@ def get_turpe_CS_c_coefficients(contract, params):
 
 def compute_TURPE(household):
     """
-    Computes the TURPE paid by the household on a yearly bases.
+    Computes the TURPE paid by the household on a yearly basis.
 
     :type household:        Household
     :content household:     The considered household.
