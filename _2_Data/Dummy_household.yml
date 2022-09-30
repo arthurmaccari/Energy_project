@@ -1,0 +1,16 @@
+---
+dummy1:
+  description:
+    "
+      power_connection: in kVA
+      energy_consumption: in kWh
+    "
+  power_connection: 9
+  energy_consumption:
+    - HPH: 6640 
+    - HCH: 7760
+    - HPB: 1680
+    - HCB: 2040
+  tariff_option: CU4
+  contract_type: CARD
+---
