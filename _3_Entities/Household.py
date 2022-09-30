@@ -44,7 +44,7 @@ class Household_FR(Household):
     
     def compute_TURPE(self):
         """
-        Computes the TURPE paid by the household on a yearly bases.
+        Computes the TURPE paid by the household on a yearly basis.
         """
         
         self.turpe = taxes_fr.compute_TURPE(self)
